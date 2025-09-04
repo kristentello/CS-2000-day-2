@@ -16,3 +16,9 @@ string-equal("Trying" , "Trying")
 
 string-contains("Type" , "t")
 string-contains("Type" , "T")
+
+```
+This is a string with multiple lines
+Hello World
+Hamburger
+```
