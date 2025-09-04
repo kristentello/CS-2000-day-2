@@ -24,12 +24,11 @@ Hamburger
 ```
 #no difference for strings between "Apple" or 'Apple'
 
+string-equal("Apple 'loves' watches", 'Apple "loves" watches')
+string-equal('Apple "loves" watches' , 'Apple "loves" watches')
 
-```
-string-equal("Apple 'loves' watches")
-string-equal('Apple "loves" watches')
 
-```
+
 rectangle(30, 70, "solid", "blue")
 #         W  L
 
