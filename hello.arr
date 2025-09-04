@@ -13,3 +13,6 @@ num-round(num-max(-3.14, PI))
 
 string-equal("Great" , "great")
 string-equal("Trying" , "Trying")
+
+string-contains("Type" , "t")
+string-contains("Type" , "T")
