@@ -10,3 +10,6 @@ num-round(num-max(-3.14, PI))
 
 "This is a string"
 # This is a comment, just a note for the programmer. does not affect the program, strings are a sequence of characters that can be input 
+
+string-equal("Great" , "great")
+string-equal("Trying" , "Trying")
