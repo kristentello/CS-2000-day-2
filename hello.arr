@@ -22,3 +22,4 @@ This is a string with multiple lines
 Hello World
 Hamburger
 ```
+#no difference for strings between "Apple" or 'Apple'
