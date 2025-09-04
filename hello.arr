@@ -8,4 +8,4 @@ num-max(17, 3)
 num-round(num-max(-3.14, PI))
 
 "This is a string"
-# This is a comment, strings are a sequence of characters that can be input 
+# This is a comment, just a note for the programmer. does not affect the program, strings are a sequence of characters that can be input 
