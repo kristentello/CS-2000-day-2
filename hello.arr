@@ -35,3 +35,5 @@ rectangle(30, 70, "solid", "blue")
 overlay(circle(20, "solid", "yellow"), rectangle(50, 70, "solid", "blue"))
 
 #ask how to apply a value to a string/why some have values and some don't, maybe situational 
+
+overlay(circle(40, "outline", "purple"), rectangle(60, 100, "solid", "yellow"))
